@@ -90,7 +90,7 @@
   - <a href="https://github.com/BotSolvers">BetterMint</a> - Own Development and Maintenance<br>
   - <a href="https://github.com/ProtonDev-sys">ProtonDev</a> - API Docs & Public API Host<br>
     - <a href="https://github.com/gmcheems">GMCheems</a> - Made GMCheems
-- <a href="https://github.com/Looka708">HotaVN</a> - Development and Improvements<br>
+- <a href="https://github.com/Looka708">Looka</a> - Development and Improvements<br>
   - <a href="https://github.com/lucaskvasirr">lucaskvasirr</a> - Premove Code Snippet
 </p>
 
